@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'eco'
 
 group :development, :test do
   gem 'jasminerice'

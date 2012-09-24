@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require "gato/gato"
+//= require_tree ../templates
+//= require "gato_ui/app"

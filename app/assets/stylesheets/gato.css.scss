@@ -1,0 +1,24 @@
+.game {
+  text-align: center;
+}
+
+.board {
+  margin: auto;
+
+  td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+  }
+}
+
+.current_player {
+  font-size: 50px;
+}
+
+body {
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+#= require "gato/initializer"
+#= require "gato/player"
+#= require "gato/cell"
+#= require "gato/board"
+#= require "gato/game"
